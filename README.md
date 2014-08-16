@@ -1,5 +1,6 @@
 #RULES AND STIPULATIONS FOR THE 75K CLUB
 
+##Version 1.0.0 — 8/15/2014
 
 ##DEFINITION OF 75K INCOME
 * The living income will be $75,000/year gross (pre-tax). However, this income will be adjusted by three factors.
