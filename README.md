@@ -64,6 +64,4 @@
    * A member that does not abide by club rules will no longer be considered an active member.
 * **AMENDMENTS**
    * Any amendment of these rules must be ratified by a 2/3rds majority of all abiding members.
-
-
-MEMBERS
+   
